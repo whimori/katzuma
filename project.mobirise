@@ -754,10 +754,10 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "FULL SCREEN SLIDER",
+                "title": "일본어가 나오는 카츠마 공장",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "text": "카츠마 선생님과 함께 일본어를 만들어 보아요.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"index.html#timeline2-d\" data-toolbar=\"-mbrBtnMove\">강의안내</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"tel:051-610-1500\" data-toolbar=\"-mbrBtnMove\">수강상담</a>"
               }
             ]
