@@ -1,2 +1,2 @@
-# katzuma
+# kazuma
 GitHub Pages
